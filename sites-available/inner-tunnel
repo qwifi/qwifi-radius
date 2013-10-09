@@ -252,7 +252,7 @@ session {
 
 	#
 	#  See "Simultaneous Use Checking Queries" in sql.conf
-#	sql
+	sql
 }
 
 
